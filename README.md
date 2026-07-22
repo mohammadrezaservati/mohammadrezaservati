@@ -6,7 +6,9 @@ Applied Cryptography, Security Protocols, and Privacy Researcher
 I am a security researcher specializing in applied cryptography and authentication protocols, with a particular focus on secure and lightweight authentication and key agreement schemes for IoT and resource-constrained systems.
 
 I hold an M.Sc. in Computer Engineering, where my thesis was awarded the **Best M.Sc. Thesis in Cryptography (National Level)** by the Iranian Society of Cryptology. My research has resulted in multiple **Q1 journal publications**, including works published in *Elsevier Computer Networks*, *Pervasive and Mobile Computing*, and *IEEE Access*.  
-My work has received **100+ citations**, and I actively serve as a reviewer for several high-impact journals.
+My work has received **120+ citations**, and I actively serve as a reviewer for several high-impact journals.
+
+Beyond academic research, I am passionate about software engineering and technology education. I am the Co-Founder of Servati Academy, an educational platform focused on programming, cybersecurity, artificial intelligence, and software engineering. I am also the Co-Founder of KianaLife, where we develop technology-driven solutions and digital products
 
 ## Research Interests
 - Applied Cryptography and Security Protocols  
