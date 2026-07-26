@@ -39,9 +39,7 @@ Beyond academic research, I am passionate about software engineering and technol
 
 ## Publications & Research
 
-- 6 peer-reviewed international journal publications
-- 121 Google Scholar citations
-- h-index: 4
+- Multiple peer-reviewed international journal publications
 - Reviewer of 21 manuscripts for international journals
 - Active reviewer for journals published by Elsevier, Springer Nature, and Nature Portfolio
 
