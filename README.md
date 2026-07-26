@@ -92,9 +92,3 @@ Each repository is documented to facilitate reproducible research and future sci
 ## Contact
 
 📧 Email: **mohammadreza.servati75@gmail.com**
-
-🐙 GitHub: https://github.com/mohammadrezaservati
-
-🎓 Google Scholar: https://scholar.google.com/citations?user=Cg-bbqkAAAAJ
-
-💼 LinkedIn: *(add your LinkedIn profile)*
